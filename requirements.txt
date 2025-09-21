@@ -19,7 +19,7 @@ mediapy
 scikit-image
 pycolmap==3.11.1
 git+https://github.com/facebookresearch/segment-anything.git
-git+https://github.com/EasternJournalist/utils3d.git#egg=utils3d
+git+https://github.com/EasternJournalist/utils3d.git#egg=utils3d@d3a577acf0a9ad7e513a1416449a07b6f47d967f
 huggingface_hub
 pyceres==2.4
 kornia==0.8.1
